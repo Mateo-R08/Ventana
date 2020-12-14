@@ -1,2 +1,2 @@
 # Guitarras
-Guitarras Platzi
+Guitarras Platzi im impruv
